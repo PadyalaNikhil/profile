@@ -119,7 +119,4 @@
 
 ---
 
-<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
-
----](https://www.linkedin.com/in/nikhileswar-padyala/)
 
